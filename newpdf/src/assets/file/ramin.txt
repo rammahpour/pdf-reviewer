@@ -21,7 +21,9 @@ and here "changed in Github" "branch3"
 "is a good boy"
 "You are a" "good boy" "but a bit angry" "but a bit angry"
 "man" "injam" "vali" "tanham"
-"Changed in GIT before branch 6" "CHANGED IN GIT" "branch6"
+"Changed in GIT before branch 6" "CHANGED IN GIT" "branch6" Haha
 "Changed in GIT before branch 6"
+"branch6" "branch6-1" man hamejam
+hatta inja
 "branch6" "branch6-1"
 "Man injam"
